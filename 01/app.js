@@ -1,4 +1,4 @@
-// console.log('app.js');
+//console.log('app.js');
 
 // //var name = '준범';
 // /*
@@ -46,7 +46,8 @@
 // image[1] = '2.jpg';
 
 // image = ['1.jpg', 2, { name: '3.jpg' }];
-
+// month = ['1월','2월'];
+// console.log(month);
 // // 값 더하기
 // console.log(1 + 2); // 3
 // console.log('a' + 'b'); // "ab"
